@@ -1,0 +1,42 @@
+Successfully forked as daemon
+17 Nov 2018 20:02:19: PID file: spool/input_p.pid
+17 Nov 2018 20:02:20: Accepted connection, fd = 5
+17 Nov 2018 20:02:20: Delaying for 56 sec
+17 Nov 2018 20:03:16: Created stream for input
+17 Nov 2018 20:03:16: File type is 'ps'
+17 Nov 2018 20:03:16: Saving data to file spool/input_p_ps_1542502996.632807
+17 Nov 2018 20:03:16: Created stream for output
+17 Nov 2018 20:03:16: Bytes received: 9
+17 Nov 2018 20:03:16: Connection terminated
+17 Nov 2018 20:27:48: Accepted connection, fd = 5
+17 Nov 2018 20:27:48: Delaying for 28 sec
+17 Nov 2018 20:28:16: Created stream for input
+17 Nov 2018 20:28:16: File type is 'ps'
+17 Nov 2018 20:28:16: Saving data to file spool/input_p_ps_1542504496.426022
+17 Nov 2018 20:28:16: Created stream for output
+17 Nov 2018 20:28:16: Bytes received: 9
+17 Nov 2018 20:28:16: Connection terminated
+17 Nov 2018 20:33:23: Accepted connection, fd = 5
+17 Nov 2018 20:33:23: Delaying for 62 sec
+17 Nov 2018 20:34:25: Created stream for input
+17 Nov 2018 20:34:25: File type is 'ps'
+17 Nov 2018 20:34:25: Saving data to file spool/input_p_ps_1542504865.384868
+17 Nov 2018 20:34:25: Created stream for output
+17 Nov 2018 20:34:25: Bytes received: 9
+17 Nov 2018 20:34:25: Connection terminated
+17 Nov 2018 20:34:25: Accepted connection, fd = 5
+17 Nov 2018 20:34:25: Delaying for 42 sec
+17 Nov 2018 20:35:07: Created stream for input
+17 Nov 2018 20:35:07: File type is 'ps'
+17 Nov 2018 20:35:07: Saving data to file spool/input_p_ps_1542504907.416038
+17 Nov 2018 20:35:07: Created stream for output
+17 Nov 2018 20:35:07: Bytes received: 9
+17 Nov 2018 20:35:07: Connection terminated
+17 Nov 2018 20:35:16: Accepted connection, fd = 5
+17 Nov 2018 20:35:16: Delaying for 35 sec
+17 Nov 2018 20:35:51: Created stream for input
+17 Nov 2018 20:35:51: File type is 'ps'
+17 Nov 2018 20:35:51: Saving data to file spool/input_p_ps_1542504951.41698
+17 Nov 2018 20:35:51: Created stream for output
+17 Nov 2018 20:35:51: Bytes received: 9
+17 Nov 2018 20:35:51: Connection terminated

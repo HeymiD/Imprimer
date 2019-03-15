@@ -1,0 +1,9 @@
+type txt
+type pdf
+type ps
+conversion txt pdf cat
+conversion pdf ps cat
+printer input_p ps
+enable input_p
+print file.txt input_p
+pause 0
